@@ -1,0 +1,67 @@
+{
+ "sub4": {
+  "record": "106",
+  "beats": 421,
+  "pvc_fraction": 0.143,
+  "rr_gate_True": {
+   "selected": [],
+   "oracle": [
+    31
+   ],
+   "scores": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "err_db_beta": 18.27
+  },
+  "rr_gate_False": {
+   "selected": [
+    22,
+    8
+   ],
+   "oracle": [
+    31
+   ],
+   "scores": [
+    0.521,
+    0.503,
+    0.49
+   ],
+   "err_db_beta": 18.28
+  }
+ },
+ "sub0": {
+  "record": "100",
+  "beats": 470,
+  "pvc_fraction": 0.0,
+  "rr_gate_True": {
+   "selected": [
+    31
+   ],
+   "oracle": [
+    31
+   ],
+   "scores": [
+    0.989,
+    0.0,
+    0.0
+   ],
+   "err_db_beta": -8.69
+  },
+  "rr_gate_False": {
+   "selected": [
+    31
+   ],
+   "oracle": [
+    31
+   ],
+   "scores": [
+    0.989,
+    0.357,
+    0.202
+   ],
+   "err_db_beta": -8.69
+  }
+ }
+}
